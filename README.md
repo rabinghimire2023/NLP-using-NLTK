@@ -91,10 +91,10 @@ Stemming and lemmatization ar eboth text preprocessinng techniques in natural la
 
 
 #### 7. Named Entity Recognition
-Named Entity Recognition involves identifying and categorizing named enitites in text data. NER is essential for information extraction and helps in understanding the structure and meaning of textual content.
+Named Entity Recognition involves identifying and categorizing named entities in text data. NER is essential for information extraction and helps in understanding the structure and meaning of textual content.
 
 ## Installation of the module
-- Git clone
+- git clone git@github.com:rabinghimire2023/NLP-using-NLTK.git
 ```
 git clone 
 ```
