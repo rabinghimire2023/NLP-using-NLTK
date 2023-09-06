@@ -94,9 +94,9 @@ Stemming and lemmatization ar eboth text preprocessinng techniques in natural la
 Named Entity Recognition involves identifying and categorizing named entities in text data. NER is essential for information extraction and helps in understanding the structure and meaning of textual content.
 
 ## Installation of the module
-- git clone git@github.com:rabinghimire2023/NLP-using-NLTK.git
+- git clone 
 ```
-git clone 
+git clone git@github.com:rabinghimire2023/NLP-using-NLTK.git
 ```
 - Install all the requirements
 ```
